@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into the VM, I search for the osTicket Installation Files and download the .zip file, then extract it..
+In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into the VM, I search for the osTicket Installation Files and download the .zip file, then extract it.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Step 2, I install the PHP Manager from the installation files. Next I install the Rewrite Module and create the directory "C:\PHP".
 </p>
 <br />
 
@@ -50,6 +50,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Step 3, the last step, I extract the PHP 7.3.8 folder into the C:\PHP folder. Finally, I install the VC_redistx86.exe file and MySQL 5.5.62 file as well and set the permissions to "Read" only.
 </p>
 <br />
