@@ -40,6 +40,8 @@ Above, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into
 <img src="https://github.com/robertgetino/osticket-prereqs/blob/d0b85d5399ac3262b9f8d5c0a058b36f2c86d73b/PHP%20Manager.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  <img src="
+<p>
 <img src="https://github.com/robertgetino/osticket-prereqs/blob/4c83ad43ec3c6daf9f4039a0d9b6c9a08a38bc7c/osTicket%20Installation.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
