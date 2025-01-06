@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/robertgetino/osticket-prereqs/blob/eed3cf577a13b15ef015b3a7bc87aa6aaa5963cf/osticketvm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/robertgetino/osticket-prereqs/blob/52d63644a1df57bcf48a77f6b2d7743093210467/osticketvm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into the VM, I search for the osTicket Installation Files and download the .zip file, then extract it.
