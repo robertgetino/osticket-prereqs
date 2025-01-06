@@ -45,7 +45,7 @@ Above, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into
 <img src="https://github.com/robertgetino/osticket-prereqs/blob/d0b85d5399ac3262b9f8d5c0a058b36f2c86d73b/PHP%20Manager.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/robertgetino/osticket-prereqs/blob/4c83ad43ec3c6daf9f4039a0d9b6c9a08a38bc7c/osTicket%20Installation.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Finally, I go back to the PHP Manager and register it with IIS as well as enable certain extensions within the PHP Manager. I then go to the browser to complete the setup of osTicket. In order to complete the installation, I go to Heidi SQL to create a username and password. After that, I enter the credentials in the installation of osTicket on the browser and it has now been completed.
