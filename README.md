@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/robertgetino/osticket-prereqs/blob/b726f0d39834e8a196a736ed2a1d89d0a2fd617a/osticketfiles.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into the VM, I then search for the osTicket Installation Files on osticket.com and download the files then extract them when necessary. I install PHP Manager, Rewrite Module and Internet Information Services.
+In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into the VM, I then search for the osTicket Installation Files on osticket.com and download the files then extract them when necessary. I install PHP Manager, Rewrite Module, mySQL and Internet Information Services.
 </p>
 <br />
 
@@ -45,14 +45,5 @@ In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Step 2, I install the PHP Manager from the installation files. Next I install the Rewrite Module and create the directory "C:\PHP".
+Finally, I go back to the PHP Manager and register it with IIS as well as enable certain extensions within the PHP Manager. I then go to the browser to complete the setup of osTicket. In order to complete the installation, I go to Heidi SQL to create a username and password. After that, I enter the credentials in the installation of osTicket on the browser and it has now been completed.
 </p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-In Step 3, the last step, I extract the PHP 7.3.8 folder into the C:\PHP folder. Finally, I install the VC_redistx86.exe file and MySQL 5.5.62 file as well and set the permissions to "Read" only.
-</p>
-<br />
