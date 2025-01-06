@@ -45,5 +45,8 @@ In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Finally, I go back to the PHP Manager and register it with IIS as well as enable certain extensions within the PHP Manager. I then go to the browser to complete the setup of osTicket. In order to complete the installation, I go to Heidi SQL to create a username and password. After that, I enter the credentials in the installation of osTicket on the browser and it has now been completed.
 </p>
