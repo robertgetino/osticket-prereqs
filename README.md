@@ -42,7 +42,7 @@ In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/robertgetino/osticket-prereqs/blob/d0b85d5399ac3262b9f8d5c0a058b36f2c86d73b/PHP%20Manager.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
