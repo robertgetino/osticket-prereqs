@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/robertgetino/osticket-prereqs/blob/b726f0d39834e8a196a736ed2a1d89d0a2fd617a/osticketfiles.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into the VM, I then search for the osTicket Installation Files on osticket.com and download the files then extract them when necessary.
+In Step 1, I create a Windows 10 Virtual Machine in Microsoft Azure. Once I log into the VM, I then search for the osTicket Installation Files on osticket.com and download the files then extract them when necessary. I install PHP Manager, Rewrite Module and Internet Information Services.
 </p>
 <br />
 
